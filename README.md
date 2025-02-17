@@ -3,17 +3,27 @@
 📊 Super Store Sales Dashboard
 
 📝 Overview
+
 This Super Store Sales Dashboard is an interactive Excel-based analytics solution that provides valuable insights into sales, transactions, and customer behavior. The dashboard visualizes key performance indicators (KPIs) with charts and tables to help businesses track sales trends and make data-driven decisions.
 
 📌 Features
+
 Total Sales Analysis – Displays overall revenue generated.
+
 Sales Average – Provides insights into average sales per transaction.
+
 Transactions Overview – Shows the number of completed transactions.
+
 Ship Mode Analysis – Breakdown of sales percentage by shipping method.
+
 Region-wise Transactions – Visual representation of transactions across different regions.
+
 Monthly Quantity Ordered – Trends in order quantities over time.
+
 Top 5 Cities by Sales – Highlights the highest sales-performing cities.
+
 Category-wise Transactions – Analyzes transaction volumes by product category.
+
 Consumer Type Analysis – Segmentation of orders by consumer type (Home Office, Corporate, Consumer).
 
 📂 Files Included
