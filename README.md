@@ -43,6 +43,6 @@ Helps businesses identify top-selling regions, categories, and shipping methods.
 Provides interactive filters to analyze specific segments.
 Supports data-driven decision-making for sales and marketing teams.
 
-📌 Author
+📌 Author:
 Deepak Sharma
 📧 dpk9138@gmail.com
