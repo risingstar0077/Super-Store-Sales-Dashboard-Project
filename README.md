@@ -27,12 +27,15 @@ Category-wise Transactions – Analyzes transaction volumes by product category.
 Consumer Type Analysis – Segmentation of orders by consumer type (Home Office, Corporate, Consumer).
 
 
+
 📂 Files Included
 
 Superstore_Raw_Data.xlsx - Excel file cotaining raw dataset.
+
 https://github.com/risingstar0077/Super-Store-Sales-Dashboard-Project/blob/main/Superstore_Raw_Data.xlsx
 
 Super_Store_Sales_Dashboard_Live.xlsx – The main Excel file containing the dashboard.
+
 https://github.com/risingstar0077/Super-Store-Sales-Dashboard-Project/blob/main/Super_Store_Sales_Dashboard_Live.xlsx
 
 Dashboard_Image.png – A preview of the dashboard visualization.
